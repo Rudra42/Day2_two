@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*header starts*/
+.header{
+    min-height: 120px;
+    background-color: #FF7101;
+    overflow: hidden;
+}
+.top{
+    overflow: hidden;
+    min-height: 100px;
+    background-color: #fff;
+}
+.hlogo{
+    width: 25%;
+background-color: blue;
+    min-height: 100px;
+    float: left;  
+}
+.hnav{
+     width: 35%;
+background-color: yellow;
+    min-height: 100px;
+    float: left;
+}
+.hsocial{
+     width: 25%;
+background-color: royalblue;
+    min-height: 100px;
+    float:right;
+}
+.home{
+background-color: silver;
+    min-height: 20px;;
+    
+}
+/*header ends*/
+/*body starts*/
+.body{
+    min-height: 700px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+.slider{
+    overflow: hidden;
+    min-height: 300px;
+    background-color: #fff;
+}
+.silder_content{
+    min-height: 300px;
+    background-color: #27BEC5;
+    margin: 0 auto;
+    width: 60%;
+    overflow: hidden;
+    
+}
+.silder_one{
+     min-height: 300px;
+    background-color: #27BEC5;
+    margin: 0 auto;
+    width: 40%;
+    float: left;
+}
+.silder_two{
+     min-height: 300px;
+    background-color:darkmagenta;
+    margin: 0 auto;
+    width: 60%;
+    float: right;
+}
+.service{
+     overflow: hidden;
+    min-height: 300px;
+    background-color: #E6E6E6;
+    width: 100%;
+}
+.single_service{
+     min-height: 300px;
+    background-color: red;
+    width: 34%;
+    overflow: hidden;
+    float: left;
+   margin-left: 180px; 
+    margin-right: -100px;
+}
+.top_one{
+    overflow: hidden;
+    min-height: 80px;
+    width: 100%;
+    overflow: hidden;
+}
+.icon{
+    width: 40%;
+    background-color: aquamarine;
+    float: left;
+    min-height: 80px;
+}
+.title{
+    width: 60%;
+    background-color: dimgray;
+    float: right;
+    min-height: 80px;
+}
+.text{
+    min-height: 200px;
+    background-color:indianred;
+}
+.view{
+    text-align: right;
+}
+/*body ends*/
+/*footer starts*/
+.footer{
+    min-height: 120px;
+    background-color: #fff;
+    overflow: hidden;
+}
+.fsocial{
+     width: 25%;
+background-color: blue;
+    min-height: 120px;
+    float: left;
+}
+.fnav{
+         width: 35%;
+background-color: yellow;
+    min-height: 120px;
+    float: left;
+}
+.finfo{
+        width: 25%;
+background-color: royalblue;
+    min-height: 120px;
+    float:right;
+}
+/*footer ends*/
